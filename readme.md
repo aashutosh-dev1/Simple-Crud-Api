@@ -1,2 +1,2 @@
 After cloning project, init the node packages by:
-npm init to the terminal
+npm init to the terminal.
